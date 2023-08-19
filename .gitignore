@@ -1,0 +1,5 @@
+*.crt
+*.csr
+*.key
+*.key.**
+settings.json
