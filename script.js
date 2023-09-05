@@ -1,6 +1,6 @@
 class AppchargeCheckout {
   constructor(
-    appchargeCheckoutSrc = "https://checkout.appcharge.com",
+    appchargeCheckoutSrc = "https://ind-checkout.appcharge.com",
     origin = window.location.origin
   ) {
     this.init();
